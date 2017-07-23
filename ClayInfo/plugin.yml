@@ -1,0 +1,17 @@
+name: ClayInfo
+author: TookieGame
+main: me.tookie.clayinfo.main
+version: 1.0
+commands:
+     premium:
+     titan:
+     legende:
+     raenge:
+     youtube:
+     help:
+     bewerben:
+     ts:
+     vote:
+     test:
+     hilfe:
+     tutorial:
